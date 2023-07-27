@@ -45,3 +45,4 @@
 <img src="https://img.shields.io/badge/Ctrl--V-000000?style=flat-square&logo=windows-terminal&logoColor=white" alt="Ctrl+V" />
     <img src="https://img.shields.io/badge/-eat-brightgreen?style=flat-square&logo=leagueoflegends&logoColor=white" alt="eat" />
     <img src="https://img.shields.io/badge/-sleep-orange?style=flat-square&logo=leagueoflegends&logoColor=white" alt="sleep" />
+    <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=958429868865064&hide_border=true" alt="阿波的掘金数据" style="zoom:100%;" align="left"/>
